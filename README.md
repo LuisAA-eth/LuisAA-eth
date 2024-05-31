@@ -47,6 +47,14 @@
 
 <br>
 
+<li>
+<a href="https://www.instagram.com/luis.ayalav/" target="_blank">
+<img src="https://img.shields.io/badge/instagram Luisayalav-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
 
 <li>
 <a href="mailto:luisaav1299@gmail.com" target="_blank">
