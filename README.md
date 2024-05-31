@@ -1,4 +1,6 @@
-# Perfil de Luis Ayala soy desarrollador full-stack en formacion constante con especializacion en tecnologia blockchain 🔗
+# Hola que tal, soy Luis Ayala desarrollador full-stack en formacion 👨🏻‍💻 constante con especializacion en tecnologia blockchain 🔗
+
+### Desarrollador Full-Stack y Entusiasta de Blockchain 🚀🔗
 
 
 ## Technologies Used 🛠️
