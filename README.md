@@ -16,7 +16,7 @@
 
 
 - Web Development: HTML, CSS, JavaScript
-- Backend Technologies: Python, Node.js
+- Backend Technologies: Python, Node.js, Django
 - Front-End Frameworks: React, Vue.js
 - Blockchain: Ethereum, Solidity, Ganache, truffle, Hardhat
 
