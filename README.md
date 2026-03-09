@@ -15,8 +15,8 @@
 
 Soy un desarrollador apasionado por construir aplicaciones web eficientes y escalables. Disfruto explorando nuevas tecnologías, especialmente el ecosistema descentralizado (Web3). Mi enfoque principal es aportar valor a través del código, combinando buenas prácticas con un aprendizaje continuo.
 
-* 💻 **Actualmente trabajando con:** React, Node.js, Python y Solidity.
-* 🌱 **Aprendiendo:** Arquitecturas descentralizadas y contratos inteligentes avanzados.
+* 💻 **Actualmente trabajando con:** React, Node.js, Python, PostgreSQL y Solidity.
+* 🌱 **Aprendiendo:** Arquitecturas descentralizadas, despliegues en la nube y contratos inteligentes avanzados.
 * 🤝 **Abierto a:** Oportunidades laborales, colaboraciones en proyectos Web3 o desarrollo Full-Stack.
 
 <br>
@@ -34,7 +34,11 @@ Soy un desarrollador apasionado por construir aplicaciones web eficientes y esca
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cloud:**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 
 **Blockchain / Web3:** ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -48,6 +52,23 @@ Soy un desarrollador apasionado por construir aplicaciones web eficientes y esca
 
 <br>
 
+## 📊 Estadísticas y Actividad en GitHub
+
+<div align="center">
+
+  <a href="https://github.com/LuisAA-eth">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAA-eth&theme=radical&hide_border=true" alt="Racha de GitHub de Luis Ayala" />
+  </a>
+  
+  <br><br>
+
+  <a href="https://github.com/LuisAA-eth">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisAA-eth&bg_color=141321&color=ff5e92&line=ff5e92&point=ffffff&area=true&hide_border=true" alt="Gráfico de Actividad de Luis Ayala" width="100%" />
+  </a>
+
+</div>
+
+<br>
 
 ## 🤝 ¡Conectemos!
 
