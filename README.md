@@ -48,14 +48,6 @@ Soy un desarrollador apasionado por construir aplicaciones web eficientes y esca
 
 <br>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Luis Ayala" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7oSkaaa&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="48%">
-</div>
-
-<br>
 
 ## 🤝 ¡Conectemos!
 
