@@ -52,23 +52,7 @@ Soy un desarrollador apasionado por construir aplicaciones web eficientes y esca
 
 <br>
 
-## 📊 Estadísticas y Actividad en GitHub
 
-<div align="center">
-
-  <a href="https://github.com/LuisAA-eth">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAA-eth&theme=radical&hide_border=true" alt="Racha de GitHub de Luis Ayala" />
-  </a>
-  
-  <br><br>
-
-  <a href="https://github.com/LuisAA-eth">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisAA-eth&bg_color=141321&color=ff5e92&line=ff5e92&point=ffffff&area=true&hide_border=true" alt="Gráfico de Actividad de Luis Ayala" width="100%" />
-  </a>
-
-</div>
-
-<br>
 
 ## 🤝 ¡Conectemos!
 
